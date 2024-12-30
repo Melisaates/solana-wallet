@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/core": "^10.4.15",
+    "@nestjs/platform-express": "^10.4.15"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
