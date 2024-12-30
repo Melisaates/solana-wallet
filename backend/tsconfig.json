@@ -1,8 +1,10 @@
 {
     "compilerOptions": {
       "module": "commonjs",
-      "target": "ESNext",
+      "target": "ES6",
       "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
       "esModuleInterop": true,
       "skipLibCheck": true,
       "strict": true,
