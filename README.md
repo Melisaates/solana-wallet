@@ -1,1 +1,1 @@
-# solana-embedded-wallet
+# solana-wallet
